@@ -2310,6 +2310,491 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CityLightsWhisper",
+      "title": "City Lights Whisper",
+      "image": "https://github.com/VagrantPi/idle_hippo_music_resource/raw/refs/heads/main/CityLightsWhisper.jpg",
+      "music": "https://github.com/VagrantPi/idle_hippo_music_resource/raw/refs/heads/main/CityLightsWhisper.mp3",
+      "length_seconds": 97,
+      "difficulties": [
+        {
+          "level": "easy",
+          "key_count": 3,
+          "beatmap": [
+            {
+              "time": 9.395,
+              "position": 1
+            },
+            {
+              "time": 11.937,
+              "position": 2
+            },
+            {
+              "time": 13.737,
+              "position": 3
+            },
+            {
+              "time": 15.51,
+              "position": 2
+            },
+            {
+              "time": 17.093,
+              "position": 1
+            },
+            {
+              "time": 18.761,
+              "position": 2
+            },
+            {
+              "time": 20.38,
+              "position": 3
+            },
+            {
+              "time": 21.937,
+              "position": 2
+            },
+            {
+              "time": 25.223,
+              "position": 1
+            },
+            {
+              "time": 27.888,
+              "position": 2
+            },
+            {
+              "time": 30.145,
+              "position": 3
+            },
+            {
+              "time": 32.178,
+              "position": 2
+            },
+            {
+              "time": 34.361,
+              "position": 1
+            },
+            {
+              "time": 35.932,
+              "position": 2
+            },
+            {
+              "time": 37.538,
+              "position": 3
+            },
+            {
+              "time": 39.675,
+              "position": 2
+            },
+            {
+              "time": 41.824,
+              "position": 1
+            },
+            {
+              "time": 43.947,
+              "position": 2
+            },
+            {
+              "time": 46.089,
+              "position": 3
+            },
+            {
+              "time": 48.232,
+              "position": 2
+            },
+            {
+              "time": 50.375,
+              "position": 1
+            },
+            {
+              "time": 52.517,
+              "position": 2
+            },
+            {
+              "time": 54.661,
+              "position": 3
+            },
+            {
+              "time": 56.803,
+              "position": 2
+            },
+            {
+              "time": 60.287,
+              "position": 1
+            },
+            {
+              "time": 62.161,
+              "position": 2
+            },
+            {
+              "time": 64.571,
+              "position": 3
+            },
+            {
+              "time": 66.446,
+              "position": 2
+            },
+            {
+              "time": 68.455,
+              "position": 1
+            },
+            {
+              "time": 70.732,
+              "position": 2
+            },
+            {
+              "time": 73.142,
+              "position": 3
+            },
+            {
+              "time": 75.017,
+              "position": 2
+            }
+          ]
+        },
+        {
+          "level": "hard",
+          "key_count": 5,
+          "beatmap": [
+            {
+              "time": 9.395,
+              "position": 1
+            },
+            {
+              "time": 9.679,
+              "position": 4
+            },
+            {
+              "time": 10.182,
+              "position": 2
+            },
+            {
+              "time": 10.449,
+              "position": 5
+            },
+            {
+              "time": 11.937,
+              "position": 4
+            },
+            {
+              "time": 12.318,
+              "position": 2
+            },
+            {
+              "time": 12.557,
+              "position": 5
+            },
+            {
+              "time": 12.863,
+              "position": 3
+            },
+            {
+              "time": 13.157,
+              "position": 1
+            },
+            {
+              "time": 13.737,
+              "position": 4
+            },
+            {
+              "time": 13.76,
+              "position": 2
+            },
+            {
+              "time": 14.088,
+              "position": 5
+            },
+            {
+              "time": 15.51,
+              "position": 5
+            },
+            {
+              "time": 15.837,
+              "position": 3
+            },
+            {
+              "time": 16.134,
+              "position": 1
+            },
+            {
+              "time": 16.357,
+              "position": 4
+            },
+            {
+              "time": 17.093,
+              "position": 3
+            },
+            {
+              "time": 17.308,
+              "position": 1
+            },
+            {
+              "time": 18.244,
+              "position": 2
+            },
+            {
+              "time": 18.761,
+              "position": 5
+            },
+            {
+              "time": 20.38,
+              "position": 1
+            },
+            {
+              "time": 20.583,
+              "position": 4
+            },
+            {
+              "time": 20.996,
+              "position": 2
+            },
+            {
+              "time": 21.213,
+              "position": 5
+            },
+            {
+              "time": 21.596,
+              "position": 3
+            },
+            {
+              "time": 21.815,
+              "position": 1
+            },
+            {
+              "time": 22.522,
+              "position": 3
+            },
+            {
+              "time": 25.223,
+              "position": 5
+            },
+            {
+              "time": 25.489,
+              "position": 3
+            },
+            {
+              "time": 26.002,
+              "position": 1
+            },
+            {
+              "time": 26.817,
+              "position": 1
+            },
+            {
+              "time": 27.888,
+              "position": 3
+            },
+            {
+              "time": 28.968,
+              "position": 5
+            },
+            {
+              "time": 30.145,
+              "position": 2
+            },
+            {
+              "time": 31.105,
+              "position": 4
+            },
+            {
+              "time": 32.178,
+              "position": 1
+            },
+            {
+              "time": 33.257,
+              "position": 3
+            },
+            {
+              "time": 34.361,
+              "position": 5
+            },
+            {
+              "time": 34.582,
+              "position": 3
+            },
+            {
+              "time": 35.389,
+              "position": 4
+            },
+            {
+              "time": 35.932,
+              "position": 2
+            },
+            {
+              "time": 35.995,
+              "position": 5
+            },
+            {
+              "time": 36.456,
+              "position": 3
+            },
+            {
+              "time": 37.033,
+              "position": 1
+            },
+            {
+              "time": 37.253,
+              "position": 4
+            },
+            {
+              "time": 38.328,
+              "position": 1
+            },
+            {
+              "time": 38.688,
+              "position": 4
+            },
+            {
+              "time": 39.675,
+              "position": 5
+            },
+            {
+              "time": 40.038,
+              "position": 3
+            },
+            {
+              "time": 40.47,
+              "position": 1
+            },
+            {
+              "time": 40.745,
+              "position": 4
+            },
+            {
+              "time": 41.071,
+              "position": 2
+            },
+            {
+              "time": 41.824,
+              "position": 5
+            },
+            {
+              "time": 43.001,
+              "position": 2
+            },
+            {
+              "time": 43.947,
+              "position": 4
+            },
+            {
+              "time": 45.022,
+              "position": 1
+            },
+            {
+              "time": 46.089,
+              "position": 3
+            },
+            {
+              "time": 47.43,
+              "position": 5
+            },
+            {
+              "time": 48.232,
+              "position": 2
+            },
+            {
+              "time": 49.308,
+              "position": 4
+            },
+            {
+              "time": 50.375,
+              "position": 1
+            },
+            {
+              "time": 51.562,
+              "position": 3
+            },
+            {
+              "time": 52.517,
+              "position": 5
+            },
+            {
+              "time": 53.589,
+              "position": 2
+            },
+            {
+              "time": 54.661,
+              "position": 4
+            },
+            {
+              "time": 56.0,
+              "position": 1
+            },
+            {
+              "time": 56.803,
+              "position": 3
+            },
+            {
+              "time": 57.874,
+              "position": 5
+            },
+            {
+              "time": 60.287,
+              "position": 2
+            },
+            {
+              "time": 61.088,
+              "position": 4
+            },
+            {
+              "time": 62.161,
+              "position": 1
+            },
+            {
+              "time": 63.231,
+              "position": 3
+            },
+            {
+              "time": 64.571,
+              "position": 5
+            },
+            {
+              "time": 65.374,
+              "position": 2
+            },
+            {
+              "time": 66.446,
+              "position": 4
+            },
+            {
+              "time": 67.301,
+              "position": 1
+            },
+            {
+              "time": 68.455,
+              "position": 3
+            },
+            {
+              "time": 68.857,
+              "position": 1
+            },
+            {
+              "time": 69.659,
+              "position": 2
+            },
+            {
+              "time": 70.732,
+              "position": 4
+            },
+            {
+              "time": 71.802,
+              "position": 1
+            },
+            {
+              "time": 73.142,
+              "position": 3
+            },
+            {
+              "time": 73.945,
+              "position": 5
+            },
+            {
+              "time": 75.017,
+              "position": 2
+            }
+          ]
+        }
+      ]
     }
   ]
 }

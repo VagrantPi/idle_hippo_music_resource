@@ -3,7 +3,7 @@
     {
       "id": "EchoesOfTheVoid",
       "title": "Echoes Of The Void",
-      "image": "assets/images/musicGame/EchoesOfTheVoid.jpg",
+      "image": "https://github.com/VagrantPi/idle_hippo_music_resource/raw/refs/heads/main/EchoesOfTheVoid.jpg",
       "music": "https://github.com/VagrantPi/idle_hippo_music_resource/raw/refs/heads/main/EchoesOfTheVoid.mp3",
       "length_seconds": 112,
       "difficulties": [
@@ -692,7 +692,7 @@
     {
       "id": "VikingWarriorsFinalCharge",
       "title": "Viking Warriors' Final Charge",
-      "image": "assets/images/musicGame/VikingWarriorsFinalCharge.jpg",
+      "image": "https://github.com/VagrantPi/idle_hippo_music_resource/raw/refs/heads/main/VikingWarriorsFinalCharge.jpg",
       "music": "https://github.com/VagrantPi/idle_hippo_music_resource/raw/refs/heads/main/VikingWarriorsFinalCharge.mp3",
       "length_seconds": 93,
       "difficulties": [
@@ -1185,7 +1185,7 @@
     {
       "id": "RacingPulseBeats",
       "title": "Racing Pulse Beats",
-      "image": "assets/images/musicGame/RacingPulseBeats.jpg",
+      "image": "https://github.com/VagrantPi/idle_hippo_music_resource/raw/refs/heads/main/RacingPulseBeats.jpg",
       "music": "https://github.com/VagrantPi/idle_hippo_music_resource/raw/refs/heads/main/RacingPulseBeats.mp3",
       "length_seconds": 114,
       "difficulties": [
